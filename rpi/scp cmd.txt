@@ -1,0 +1,1 @@
+scp "E:/8th Sem/Capstone/Self Driving Car/rpi/ultrasonic_pi.py" pi@raspberrypi.local:rc
